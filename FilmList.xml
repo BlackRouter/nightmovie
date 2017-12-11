@@ -2,14 +2,14 @@
 <movies>
 
 <film1>
-<name1>The Pirates of Somalia (2017)</name1>
-<imdb1>7.2/10</imdb1>
-<time1>116</time1>
-<genre1>درام | بیوگرافی</genre1>
-<artist1>Melanie Griffith | Tom Hardy</artist1>
-<Director1>Bryan Buckley</Director1>
-<Country1>سودان</Country1>
-<flagid1>su</flagid1>
+<name>The Pirates of Somalia (2017)</name>
+<imdb>7.2/10</imdb>
+<time>116</time>
+<genre>درام | بیوگرافی</genre>
+<artist>Melanie Griffith | Tom Hardy</artist>
+<Director>Bryan Buckley</Director>
+<Country>سودان</Country>
+<flagid>su</flagid>
 <!-- flagid list: us , de , fr , ir , india , china , korea , denmark , irland , russia , brazil , uk , nl , switzerland , australia , thailand , spain -->
 </film1>
 
