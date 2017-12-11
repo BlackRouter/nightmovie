@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+
+<film1>
+<name>The Pirates of Somalia (2017)</name>
+<imdb>7.2/10</imdb>
+<time>116</time>
+<genre>درام | بیوگرافی</genre>
+<artist>Melanie Griffith | Tom Hardy</artist>
+<Director>Bryan Buckley</Director>
+<Country>سودان</Country>
+<flagid>su</flagid>
+<!-- flagid list: us , de , fr , ir , india , china , korea , denmark , irland , russia , brazil , uk , nl , switzerland , australia , thailand , spain -->
+</film1>
+
+<film2>
+<name>نام فیلم</name>
+<imdb>0.0/10</imdb>
+<time>100</time>
+<genre>ترسناک | رازآلود</genre>
+<artist>Leonardo DiCaprio | Tom Hardy</artist>
+<Director>Christopher Nolan</Director>
+<Country>آمریکا</Country>
+<flagid>us</flagid>
+<!-- flagid list: us , de , fr , ir , india , china , korea , denmark , irland , russia , brazil , uk , nl , switzerland , australia , thailand , spain -->
+</film2>
+
+<film3>
+<name>نام فیلم</name>
+<imdb>0.0/10</imdb>
+<time>100</time>
+<genre>ترسناک | رازآلود</genre>
+<artist>Leonardo DiCaprio | Tom Hardy</artist>
+<Director>Christopher Nolan</Director>
+<Country>آمریکا</Country>
+<flagid>us</flagid>
+<!-- flagid list: us , de , fr , ir , india , china , korea , denmark , irland , russia , brazil , uk , nl , switzerland , australia , thailand , spain -->
+</film3>
+
+<film4>
+<name>نام فیلم</name>
+<imdb>0.0/10</imdb>
+<time>100</time>
+<genre>ترسناک | رازآلود</genre>
+<artist>Leonardo DiCaprio | Tom Hardy</artist>
+<Director>Christopher Nolan</Director>
+<Country>آمریکا</Country>
+<flagid>us</flagid>
+<!-- flagid list: us , de , fr , ir , india , china , korea , denmark , irland , russia , brazil , uk , nl , switzerland , australia , thailand , spain -->
+</film4>
+
+<film5>
+<name>نام فیلم</name>
+<imdb>0.0/10</imdb>
+<time>100</time>
+<genre>ترسناک | رازآلود</genre>
+<artist>Leonardo DiCaprio | Tom Hardy</artist>
+<Director>Christopher Nolan</Director>
+<Country>آمریکا</Country>
+<flagid>us</flagid>
+<!-- flagid list: us , de , fr , ir , india , china , korea , denmark , irland , russia , brazil , uk , nl , switzerland , australia , thailand , spain -->
+</film5>
+
+</movies>
