@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<movies>
+<movie>
 <film>
 <name>The Pirates of Somalia (2017)</name>
 <imdb>7.2/10</imdb>
@@ -11,4 +11,4 @@
 <flagid>su</flagid>
 <!-- flagid list: us , de , fr , ir , india , china , korea , denmark , irland , russia , brazil , uk , nl , switzerland , australia , thailand , spain -->
 </film>
-</movies>
+</movie>
