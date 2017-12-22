@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<movie>
+<movies>
+
 <film>
-<name>The Pirates of Somalia (2017)</name>
-<imdb>7.2/10</imdb>
-<time>116</time>
-<genre>درام | بیوگرافی</genre>
-<artist>Melanie Griffith | Tom Hardy</artist>
-<Director>Bryan Buckley</Director>
-<Country>سودان</Country>
-<flagid>su</flagid>
+<name>IT</name>
+<imdb>7.7/10</imdb>
+<time>130</time>
+<genre>ترسناک | رازآلود</genre>
+<artist>Leonardo DiCaprio | Tom Hardy</artist>
+<Director>Christopher Nolan</Director>
+<Country>آمریکا</Country>
+<flagid>us</flagid>
 <!-- flagid list: us , de , fr , ir , india , china , korea , denmark , irland , russia , brazil , uk , nl , switzerland , australia , thailand , spain -->
+<image>http://www.2nightmovie.org/upload/194/a4mSqNDNg6xE8DKgEYjh5Jl_gv1q.jpg</image>
+<address>http://www.google.com</address>
 </film>
-</movie>
+
+</movies>
